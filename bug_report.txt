@@ -1,0 +1,10 @@
+Title: Resizing Pointers Are Inside the Widget
+Severity: Minor
+Priority: Medium
+Environment: Honor 20 Android 10 Magic IU 4.0.0.170 (C461E5R3P4)   
+Precondition: Install the application AndroidGridTest
+STR: 1) open application 
+     2) long tap widget AndroidGridTest
+     3) resize widget
+AR: Widget size changed
+ER: No widget size changed
