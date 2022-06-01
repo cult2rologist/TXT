@@ -1,0 +1,25 @@
+Skills list:
+1) Basis of SDLC and STLC;
+2) Introduction to the clien-server architecture;
+3) HTTP structure, methods and status codes;
+4) What JSON and XML is and its structure;
+5) API testing via Postman (JS, API autotests);
+6) External server logs get and read;
+7) HTTP web traffic sniffing via Charles and Fiddler;
+8) Dev Tools (Google Chrome, FireFox);
+9) VPN (How it works, Why and How to use it, Tools);
+10) Mobile testing;
+11) iOS and Android features, guidelines;
+12) Assembling iOS app via XCode;
+13) Assembling Android app via Android Studio;
+14) Android Debug Bridge;
+15) Proxy and VPN configuring on iOS and Android;
+16) Mobile traffic sniffing via Charles and Fiddler on iOS and Android;
+17) Bash terminal for GitHub (mkdir, touch, cp, mv, find, grep, cat, vim, add, commit, push, pull, fetch, checkout, etc);
+18) Bash scripting, routine tasks automation on the server;
+19) Remote server connection;
+20) SQL basic queries (Create, Delete, Drop, Insert Into, Select, From, Where, Join);
+21) Relational db Postgres (installing, setting, using);
+22) Non-relational db Redis (installing, setting, using);
+23) Load testing via Jmeter;
+24) Scrum methodology basis.

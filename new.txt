@@ -1,0 +1,5 @@
+First name: Ilya
+Last name: Mckay
+Age: 33
+Pets: Tyler, the dog
+Desired salary: $10K per month or $150K per yer including benefits
